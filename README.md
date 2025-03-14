@@ -5,5 +5,5 @@ me chamo _**João pedro**_, tenho 17 anos, moro na comunidade de vila Nova inter
 Estou aprendendo _**Java**_, _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**MySQL**_.
 
 ![Java](https://img.shields.io/badge/java-222222?style=for-the-badge&logo=openjdk&logoColor=CC33FF)
-
 ![Python](https://img.shields.io/badge/python-222222?style=for-the-badge&logo=python&logoColor=3300FF)
+![HTML5](https://img.shields.io/badge/html-222222?style=for-the-badge&logo=html5&logoColor=009900)
