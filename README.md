@@ -2,4 +2,6 @@
 
 me chamo _**João pedro**_, tenho 17 anos, moro na comunidade de vila Nova interior de Maranguape, sou estudante do curso de *informática no Instituto Federal do Ceará (IFCE) no campus de Maranguape* e estou começando no Github.
 
-Estou aprendendo _**Java**_, _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**MySQL**_
+Estou aprendendo _**Java**_, _**Python**_, _**HTML**_, _**CSS**_, _**JavaScript**_, _**MySQL**_.
+
+![Python](https://img.shields.io/badge/python-222222?style=for-the-badge&logo=python&logoColor=006699)
